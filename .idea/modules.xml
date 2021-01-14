@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/avsapp/avs.iml" filepath="$PROJECT_DIR$/avsapp/avs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/awesome-webapp-jonah.iml" filepath="$PROJECT_DIR$/.idea/awesome-webapp-jonah.iml" />
+    </modules>
+  </component>
+</project>
